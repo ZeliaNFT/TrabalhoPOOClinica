@@ -10,4 +10,4 @@ deve fazer o cálculo do valor do atendimento. As consultas ou retornos devem se
 anteriormente agendadas em datas disponíveis, os pacientes deverão ter um
 registro para que seja mantido seu histórico.
 
-[Diagrama de Classe UML](file:///C:/Users/Zelia/OneDrive/%C3%81rea%20de%20Trabalho/BSI/6%C2%BAPer%C3%ADodo/POO%202.0/ClinicaPOOUML.html)
+
