@@ -1,7 +1,7 @@
 # TrabalhoPOOClinicaMedica
 (Repositório Destinado a Estudos da Disciplina Programação Orientada à Objetos)
 Breve Descrição: Mini Mundo
-O sistema deve gerenciar as consultas de uma clínica médica,
+  O sistema deve gerenciar as consultas de uma clínica médica,
 que possui médicos especialistas em cada área, somente médicos cadastrados
 poderão realizar o atendimento. A clínica é particular, mas ela oferece aos seus
 clientes diferentes formas de pagamento, aceita descontos de convênios e planos
