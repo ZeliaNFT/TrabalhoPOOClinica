@@ -10,5 +10,5 @@ deve fazer o cálculo do valor do atendimento. As consultas ou retornos devem se
 anteriormente agendadas em datas disponíveis, os pacientes deverão ter um
 registro para que seja mantido seu histórico.
 
-#Instruções 
+# Instrução para Compilação
 1º Clone o Repositório 2º Execute-o em sua IDE 3º Executar o Arquivo Na Camada Apresentção MenuCadastro.java
